@@ -3,7 +3,7 @@ In this work, we try to predict the head length of a possum from its different f
 
 ![see image here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzruAadDTAwiay7li7vnxshdtO3RzhJWN3uw&s)
 
-We use this task as an example of the implementation of a Regression task in R
+We use this task as practice implementation of a Regression task in R
 ### The DATASET
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/abrambeyer/openintro-possum). It consists of 14 columns and over 104 rows.
 The possum dataset contains nine morphometric measurements for 104 mountain brushtail possums. These possums were captured at seven locations spanning Southern Victoria to central Queensland.
