@@ -2,6 +2,7 @@
 In this work, we try to predict the head length of a possum from its different features. A possum is a creature which is a suborder of 70 tree-living marsupial species native to Australia and the Indonesian islands of New Guinea and Sulawesi. 
 
 ![see image here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzruAadDTAwiay7li7vnxshdtO3RzhJWN3uw&s)
+
 We use this task as an example of the implementation of a Regression task in R
 ### The DATASET
 The dataset was obtained from [Kaggle](https://www.kaggle.com/datasets/abrambeyer/openintro-possum). It consists of 14 columns and over 104 rows.
